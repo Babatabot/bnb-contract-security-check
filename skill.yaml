@@ -1,0 +1,5 @@
+name: bnb_contract_security_check
+title: BNB Contract Security Check
+description: Check a BNB Chain contract across 7 security platforms and deliver a PDF report. BNB 合约安全检查，7 个平台深度检测并出报告。
+category: Work and knowledge
+include_in_prompt: true
